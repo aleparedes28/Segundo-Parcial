@@ -1,0 +1,1 @@
+"# Segundo-Parcial"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:aleparedes28/Segundo-Parcial.gitgit push -u origin master                
